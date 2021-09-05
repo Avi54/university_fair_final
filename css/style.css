@@ -1,0 +1,24 @@
+/* tabs */
+.tabs {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.tab a {
+  font-size: 200px;
+}
+
+/* heading */
+.heading {
+  text-align: center;
+}
+
+/* cards */
+.btn-learn {
+  margin-top: 20px;
+}
+
+/* table */
+table {
+  margin-top: 100px;
+}
