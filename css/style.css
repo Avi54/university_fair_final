@@ -13,6 +13,14 @@
   text-align: center;
 }
 
+.subhead {
+  font-size: 40px;
+}
+
+.body {
+  font-size: 20px;
+}
+
 /* cards */
 .btn-learn {
   margin-top: 20px;
