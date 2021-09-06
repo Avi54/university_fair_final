@@ -1,12 +1,20 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
 /* tabs */
 .tabs {
   margin-top: 20px;
   text-align: center;
+  background-color: #F5F5F5;
 }
 
-.tab a {
-  font-size: 200px;
-}
+/* .tabs li a {
+  font-size: 25px;
+} */
 
 /* heading */
 .heading {
@@ -30,3 +38,20 @@
 table {
   margin-top: 100px;
 }
+
+.mycontainer {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.main-heading {
+  font-size: 70px;
+  text-align: center;
+}
+
+/* tabs */
+.tabs .tab a{
+  color: red;
+} 
+
+
