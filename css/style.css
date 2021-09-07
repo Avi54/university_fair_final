@@ -10,6 +10,7 @@
 /* tabs */
 .tabs {
   text-align: center;
+  width: 100%;
   background-color: #F5F5F5;
 }
 
@@ -87,3 +88,7 @@ table {
   position: relative;
   top: 40px;
 } */
+
+.school-img {
+  margin-bottom: 40px;
+}
