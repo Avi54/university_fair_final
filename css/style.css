@@ -1,5 +1,7 @@
 /* google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta&display=swap');
 
 * {
   font-family: 'Roboto', sans-serif;
@@ -7,7 +9,6 @@
 
 /* tabs */
 .tabs {
-  margin-top: 20px;
   text-align: center;
   background-color: #F5F5F5;
 }
@@ -19,6 +20,8 @@
 /* heading */
 .heading {
   text-align: center;
+  margin-top: 80px; 
+  margin-bottom: 80px;
 }
 
 .subhead {
@@ -36,17 +39,20 @@
 
 /* table */
 table {
-  margin-top: 100px;
+  /* margin-top: 100px; */
 }
 
 .mycontainer {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
+    
 }
 
 .main-heading {
   font-size: 70px;
   text-align: center;
+  margin-bottom: 40px;
+  font-family: 'Allerta', sans-serif;
 }
 
 /* tabs */
@@ -55,3 +61,29 @@ table {
 } 
 
 
+
+.logo {
+  width: 600px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+  top: 40px;
+}
+
+table {
+  margin-bottom: 150px;
+  font-size: 19px;
+}
+
+/* .school-img {
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: relative;
+  top: 40px;
+} */
